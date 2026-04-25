@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Paulo, and I'm starting my career as a Developer in Brazil. I'm passionate about learning new technologies and deepening my studies in Artificial Intelligence. Currently, I'm diving into KMP, focusing on the area of cross-platform development.<br><br>On this GitHub, you'll find projects that document my learning process and experiments with new ideas. I believe in continuous improvement and collaboration, so feel free to share your feedback or get in touch if you'd like to connect.</h2>
+<h2 align="left"># Paulo Henrique Durães
+
+Desenvolvedor de Inteligência Artificial aplicada, com foco em LLMs, RAG, agentes inteligentes, MCP, automações, Machine Learning e integração de sistemas.
+
+Atuo com Python, FastAPI, LangGraph, APIs REST, bancos de dados, pipelines de dados, XGBoost, SHAP, Gemini e soluções baseadas em IA generativa.
+
+Tenho experiência prática na criação de agentes de IA, automações inteligentes, plataformas analíticas, integração de sistemas e projetos com visão computacional..</h2>
 
 ###
 
