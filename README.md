@@ -1,4 +1,4 @@
-<h2 align="left"># Paulo Henrique Durães
+<h2 align="left">Paulo Henrique Durães
 
 Desenvolvedor de Inteligência Artificial aplicada, com foco em LLMs, RAG, agentes inteligentes, MCP, automações, Machine Learning e integração de sistemas.
 
