@@ -1,5 +1,4 @@
-<h2 align="left">Paulo Henrique Durães
-
+<h2 align="left">
 # Paulo Henrique Mota Durães
 
 ### AI Engineer | LLMs · AI Agents · RAG · MCP · Python
