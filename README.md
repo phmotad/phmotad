@@ -1,10 +1,79 @@
 <h2 align="left">Paulo Henrique Durães
 
-Desenvolvedor de Inteligência Artificial aplicada, com foco em LLMs, RAG, agentes inteligentes, MCP, automações, Machine Learning e integração de sistemas.
+# Paulo Henrique Mota Durães
 
-Atuo com Python, FastAPI, LangGraph, APIs REST, bancos de dados, pipelines de dados, XGBoost, SHAP, Gemini e soluções baseadas em IA generativa.
+### AI Engineer | LLMs · AI Agents · RAG · MCP · Python
 
-Tenho experiência prática na criação de agentes de IA, automações inteligentes, plataformas analíticas, integração de sistemas e projetos com visão computacional..</h2>
+AI Engineer focused on building practical AI applications, intelligent agents and LLM-powered systems.
+
+I work mainly with:
+
+* 🤖 AI Agents & Agentic Workflows
+* 🧠 LLMs & Generative AI
+* 🔎 RAG & Knowledge Bases
+* 🔌 MCP & Tool Calling
+* 🐍 Python & FastAPI
+* 🕸️ LangGraph
+* 📡 REST APIs & Integrations
+* 📊 Machine Learning & XGBoost
+* 👁️ Computer Vision
+* 🔬 Model Fine-tuning
+
+## Featured Projects
+
+### 🔥 FireAgent
+
+AI agent platform focused on connecting LLMs with enterprise data and external tools through secure MCP integrations.
+
+**Technologies:** Python · FastAPI · LangGraph · MCP · Google GenAI MCP Toolbox · Keycloak · PostgreSQL
+
+Key concepts:
+
+* Agentic workflows
+* Secure tool execution
+* MCP
+* Database integrations
+* Multi-tenant architecture
+* Authentication & authorization
+* Interactive AI interfaces
+
+### 🧠 AI Knowledge Base / RAG
+
+Knowledge base infrastructure for AI applications, enabling LLM-powered systems to retrieve structured information and provide contextual responses.
+
+**Technologies:** Python · RAG · FalkorDB · APIs · LLMs
+
+### 📈 Churn & Health Score
+
+Machine Learning solution for customer churn analysis and health scoring.
+
+**Technologies:** Python · XGBoost · SHAP · Gemini · LLMs
+
+The solution combines behavioral, support, usage and financial data with AI-generated analysis.
+
+### 👁️ Computer Vision
+
+Computer vision pipeline for automated roof segmentation and identification of structural elements.
+
+**Technologies:** Python · DeepLabV3 · Moondream · Fine-tuning · Computer Vision · FastAPI
+
+## Open Source
+
+Contributor to Google's GenAI Toolbox, including work related to Firebird database support and MCP integrations.
+
+## Currently Learning
+
+* Advanced AI Agents
+* Agentic architectures
+* MCP
+* LLM evaluation
+* Production AI systems
+* AI application engineering
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/phenriquemota)
+..</h2>
 
 ###
 
